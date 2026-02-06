@@ -1,4 +1,4 @@
-<img src="/images/collage.png" alt="cover photo" width="900" height="200">
+<img src="/images/collage.jpg" alt="cover photo" width="800" height="200">
 
 <!--
 **Lovepreet0199/lovepreet0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
