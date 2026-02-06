@@ -17,8 +17,6 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/lovepreet-singh-sandhu-567345164/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
@@ -34,5 +32,4 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40"/>
 </a>
 
-</p>
 
