@@ -1,3 +1,4 @@
+
 <img src="/images/collage.jpg" alt="cover photo" width="800" height="200">
 
 <!--
