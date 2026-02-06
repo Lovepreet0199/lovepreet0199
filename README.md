@@ -23,14 +23,18 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
   </a>
    &nbsp;&nbsp;
   <a href="https://www.instagram.com/lovepreet08_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
+         width="40"
+         style="filter: invert(37%) sepia(98%) saturate(469%) hue-rotate(316deg) brightness(98%) contrast(95%);" />
   </a>
    &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/32191345/lovepreet-sandhu" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40"/>
   </a>
   <a href="https://discordapp.com/users/Lovepreet0199" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40"/>
+   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
+         width="40"
+         style="filter: invert(42%) sepia(91%) saturate(406%) hue-rotate(202deg) brightness(96%) contrast(93%);" />
 </a>
   </p>
 
