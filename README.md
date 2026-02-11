@@ -19,20 +19,15 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
 
   <p align="center">
     <a href="https://www.linkedin.com/in/lovepreet-singh-sandhu-567345164/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/lovepreet08_" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
-         width="40"
-         style="filter: invert(37%) sepia(98%) saturate(469%) hue-rotate(316deg) brightness(98%) contrast(95%);">
-  </a>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/></a>
      <a href="https://stackoverflow.com/users/32191345/lovepreet-sandhu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40"/>
   </a>
   <a href="https://discordapp.com/users/Lovepreet0199" target="_blank">
-   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
-         width="40"
-         style="filter: invert(42%) sepia(91%) saturate(406%) hue-rotate(202deg) brightness(96%) contrast(93%);" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40"/>
 </a>
   </p>
 
