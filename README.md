@@ -19,6 +19,7 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
 <p align="center">
   <a href="https://www.linkedin.com/in/lovepreet-singh-sandhu-567345164/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
   <a href="https://www.instagram.com/lovepreet08_" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/></a>
-  <a href="https://stackoverflow.com/users/32191345/lovepreet-sandhu" target="_blank"><img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg(https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)" width="40"/></a>
+    <a href="https://stackoverflow.com/users/32191345/lovepreet-sandhu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="40"style="background-color:#F48024; padding:12px; border-radius:50%; filter: invert(1);"></a>
   <a href="https://discordapp.com/users/Lovepreet0199" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40"/></a>
   </p>
+
