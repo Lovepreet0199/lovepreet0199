@@ -22,4 +22,4 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
   <a href="https://stackoverflow.com/users/32191345/lovepreet-sandhu" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="40"/></a>
   <a href="https://discordapp.com/users/Lovepreet0199" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40"/></a>
   </p>
-
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)]("https://stackoverflow.com/users/32191345/lovepreet-sandhu")
