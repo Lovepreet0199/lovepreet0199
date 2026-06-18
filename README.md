@@ -28,7 +28,7 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   </div>
   <div align="center">
-  <a href="https://www.linkedin.com/in/lovepreet-singh-sandhu-567345164/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/lovepreet-singh-sandhu-567345164/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/lovepreet08_" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/></a>
   <a href="https://stackoverflow.com/users/32191345/lovepreet-sandhu" target="_blank"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="40" alt="Stack Overflow" /></a>
   <a href="https://discordapp.com/users/Lovepreet0199" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord"/></a>
