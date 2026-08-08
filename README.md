@@ -1,5 +1,3 @@
-<img src="/images/collage.jpg" alt="cover photo" width="860" height="200">
-
 # Hi, I'm Lovepreet Sandhu
 
 I'm a full-stack web developer in training at *Humber College*, building clean, responsive and user-friendly websites.
@@ -17,14 +15,15 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/lovepreet-singh-sandhu-567345164/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/lovepreet08_" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/></a>
-  <a href="https://stackoverflow.com/users/32191345/lovepreet-sandhu" target="_blank"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="40" alt="Stack Overflow" /></a>
-  <a href="https://discordapp.com/users/Lovepreet0199" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord"/></a>
-  </div>
+## Links
 
-  <h2 align="center">🐍 My Contribution Graph</h2>
+[![Portfolio](https://img.shields.io/badge/Portfolio-lovesandhu.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lovesandhu.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lovepreet0199-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet0199)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovepreet_Sandhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+## Contribution Graph
 
 <p align="center">
   <picture>
@@ -37,9 +36,8 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
       srcset="https://raw.githubusercontent.com/Lovepreet0199/Lovepreet0199/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub contribution snake animation"
+      alt="GitHub contribution snake"
       src="https://raw.githubusercontent.com/Lovepreet0199/Lovepreet0199/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
-
