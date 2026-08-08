@@ -17,12 +17,6 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lovepreet0199" alt="GitHub Streak" />
-</p>
-
 ## Contribution Graph
 
 <p align="center">
@@ -40,6 +34,12 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
       src="https://raw.githubusercontent.com/Lovepreet0199/Lovepreet0199/output/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lovepreet0199" alt="GitHub Streak" />
 </p>
 
 ## Links
