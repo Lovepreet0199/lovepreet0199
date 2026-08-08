@@ -25,6 +25,12 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovepreet_Sandhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lovepreet0199" alt="GitHub Streak" />
+</p>
+
 ## Contribution Graph
 
 <p align="center">
