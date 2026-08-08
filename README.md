@@ -45,8 +45,7 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
 ## Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lovesandhu.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lovesandhu.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lovepreet0199-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet0199)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovepreet_Sandhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32191345/lovepreet-sandhu)
+[![Discord](https://img.shields.io/badge/Discord-Lovepreet-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1248076287671537681)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovepreet_Sandhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovepreet-singh-sandhu-567345164/)
 
