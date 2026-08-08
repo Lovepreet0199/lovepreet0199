@@ -17,14 +17,6 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lovesandhu.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lovesandhu.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lovepreet0199-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet0199)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovepreet_Sandhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
 ## GitHub Streak
 
 <p align="center">
@@ -49,3 +41,12 @@ I'm a full-stack web developer in training at *Humber College*, building clean, 
     />
   </picture>
 </p>
+
+## Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lovesandhu.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lovesandhu.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lovepreet0199-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lovepreet0199)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovepreet_Sandhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
