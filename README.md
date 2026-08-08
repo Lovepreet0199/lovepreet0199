@@ -36,6 +36,10 @@
   </picture>
 </p>
 
+## 3D Contribution Graph
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## GitHub Streak
 
 <p align="center">
