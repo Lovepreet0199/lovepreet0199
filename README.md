@@ -1,4 +1,5 @@
 <img src="/images/collage.jpg" alt="cover photo" width="860" height="200">
+
 # Hi, I'm Lovepreet Sandhu
 
 I'm a full-stack web developer in training at *Humber College*, building clean, responsive and user-friendly websites.
