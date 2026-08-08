@@ -2,8 +2,6 @@
 
 # Hi, I'm Lovepreet Sandhu
 
-I'm a full-stack web developer in training at *Humber College*, building clean, responsive and user-friendly websites.
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+ASP.NET;Always+Learning+and+Building)](https://git.io/typing-svg)
 
 ## Tech Stack
