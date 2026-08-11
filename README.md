@@ -43,9 +43,11 @@
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lovepreet0199" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Lovepreet0199&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
 ## Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lovesandhu.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lovesandhu.com)
