@@ -1,6 +1,8 @@
-<img src="/images/collage.jpg" alt="cover photo" width="860" height="200">
 
 # Hi, I'm Lovepreet Sandhu
+
+<img src="/images/collage.jpg" alt="cover photo" width="860" height="200">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+ASP.NET+%7C+PHP;Always+Learning+and+Building)](https://git.io/typing-svg)
 
