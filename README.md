@@ -40,7 +40,7 @@
 
 ## 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock-animate.svg)
 
 ## GitHub Streak
 
