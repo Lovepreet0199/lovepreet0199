@@ -1,4 +1,3 @@
-
 # Hi, I'm Lovepreet Sandhu
 
 <img src="/images/collage.jpg" alt="cover photo" width="860" height="200">
